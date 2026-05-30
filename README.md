@@ -6,7 +6,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **QuantumClimateGuard** is a plug-and-play Python toolkit for enterprise climate risk intelligence. It combines quantum-enhanced algorithms with classical analytics to model physical and transition risks, optimize carbon credit portfolios, generate TCFD-aligned reports, and plan net-zero pathways.
-<img width="1911" height="997" alt="Screenshot 2026-05-30 184043" src="https://github.com/user-attachments/assets/22e9dad5-d33c-4dc0-9648-0dea5fba0f67" />
+<img width="1903" height="968" alt="Screenshot 2026-05-30 184648" src="https://github.com/user-attachments/assets/dca8da4a-e818-4cac-8ad6-5f649911d15f" />
+
 
 ---
 
@@ -147,7 +148,8 @@ print(f"TCFD Aligned: {tcfd['tcfd_aligned']} ({tcfd['overall_score_pct']}%)")
 ```
 
 ### CLI Demo
-<img width="1917" height="945" alt="Screenshot 2026-05-30 184101" src="https://github.com/user-attachments/assets/c7d7ddb3-9893-4809-9337-46307a4bedbc" />
+<img width="1914" height="981" alt="Screenshot 2026-05-30 184720" src="https://github.com/user-attachments/assets/7ed2a00b-3e1f-4db0-91c7-59247bacf513" />
+
 
 
 ```bash
