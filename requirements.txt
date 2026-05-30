@@ -1,0 +1,13 @@
+# Core
+numpy>=1.24.0
+scipy>=1.10.0
+rich>=13.0.0
+requests>=2.28.0
+openai>=1.0.0
+anthropic>=0.20.0
+
+# Optional Quantum Backend (install separately for GPUQVM)
+# pyqpanda3>=0.3.2
+
+# Optional GUI
+# customtkinter>=5.0.0
