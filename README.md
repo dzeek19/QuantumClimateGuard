@@ -1,3 +1,6 @@
+<img width="1911" height="997" alt="Screenshot 2026-05-30 184043" src="https://github.com/user-attachments/assets/22e9dad5-d33c-4dc0-9648-0dea5fba0f67" />
+
+
 # QuantumClimateGuard
 
 > **Quantum Climate Risk & Carbon Credit Optimizer** — ESG Intelligence Platform
@@ -146,6 +149,8 @@ print(f"TCFD Aligned: {tcfd['tcfd_aligned']} ({tcfd['overall_score_pct']}%)")
 ```
 
 ### CLI Demo
+<img width="1917" height="945" alt="Screenshot 2026-05-30 184101" src="https://github.com/user-attachments/assets/c7d7ddb3-9893-4809-9337-46307a4bedbc" />
+
 
 ```bash
 python -m quantum_climate_guard --cli
