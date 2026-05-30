@@ -1,6 +1,3 @@
-<img width="1911" height="997" alt="Screenshot 2026-05-30 184043" src="https://github.com/user-attachments/assets/22e9dad5-d33c-4dc0-9648-0dea5fba0f67" />
-
-
 # QuantumClimateGuard
 
 > **Quantum Climate Risk & Carbon Credit Optimizer** — ESG Intelligence Platform
@@ -9,6 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **QuantumClimateGuard** is a plug-and-play Python toolkit for enterprise climate risk intelligence. It combines quantum-enhanced algorithms with classical analytics to model physical and transition risks, optimize carbon credit portfolios, generate TCFD-aligned reports, and plan net-zero pathways.
+<img width="1911" height="997" alt="Screenshot 2026-05-30 184043" src="https://github.com/user-attachments/assets/22e9dad5-d33c-4dc0-9648-0dea5fba0f67" />
 
 ---
 
