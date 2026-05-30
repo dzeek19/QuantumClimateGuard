@@ -1,4 +1,4 @@
-# Climate Guard
+# Quantum Climate Guard
 
 > Climate Risk & Carbon Credit Optimizer — ESG Intelligence Platform
 
